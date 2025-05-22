@@ -1,3 +1,3 @@
-URL_SERVICE="https://ad58cf55-6d45-402a-96e2-f28165ba0308.serverhub.praktikum-services.ru"
-CREATE_ORDERS="/api/v1/orders"
-FETCH_ORDER_TRACK = "/api/v1/orders/track"
+URL_SERVICE="https://d1796eb6-47dd-4c8e-9e7f-5012a1c30063.serverhub.praktikum-services.ru"
+CREATE_ORDER="/api/v1/orders"
+TRACK_ORDER = "/api/v1/orders/track"
