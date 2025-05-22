@@ -1,13 +1,15 @@
+headers = {
+    "Content-Type": "application/json"
+}
+
 order_body = {
-    "firstName": "Naruto",
-    "lastName": "Uchiha",
-    "address": "Konoha, 142 apt.",
+    "firstName": "Дмитрий",
+    "lastName": "Овчинников",
+    "address": "Терешковой 245",
     "metroStation": 4,
-    "phone": "+7 800 355 35 35",
+    "phone": "+7 922 829 14 91",
     "rentTime": 5,
     "deliveryDate": "2025-05-28",
-    "comment": "Saske, come back to Konoha",
-    "color": [
-        "BLACK"
-    ]
+    "comment": "",
+    "color": []
 }
